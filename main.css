@@ -29,14 +29,17 @@ input {
   margin-top: 16px;
   height: 48px;
   border-style: none;
+  padding-left: 16px;
+  font-size: 16px;
 }
 
 .addOption {
   margin-top: 16px;
   width: inherit;
-  background-color: #fcbf0a;
+  background-color: #2d9ee0;
   font-size: 16px;
   font-weight: lighter;
+  color: #ffffff;
 }
 
 button {
@@ -51,8 +54,4 @@ button {
   color: #ffffff;
   font-size: 16px;
   font-weight: lighter;
-}
-
-background-color {
-
 }
