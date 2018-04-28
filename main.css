@@ -4,7 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 150px;
-  background-color: #ededed;
+  background-color: #f0c4db;
 }
 
 H1 {
@@ -15,7 +15,7 @@ H1 {
 }
 
 .inputSection {
-  margin: 50px 0px 16px 0px;
+  margin: 50px 0px 0px 0px;
   width: 400px;
 }
 
@@ -47,7 +47,7 @@ button {
   border-style: none;
   background-color: #333333;
   width: 400px;
-  margin-bottom: 32px;
+  margin-bottom: 64px;
   color: #ffffff;
   font-size: 16px;
   font-weight: lighter;
@@ -59,4 +59,6 @@ button {
   justify content: center;
   align-items: center;
   font-size: 32px;
+  font-weight: bolder;
+  padding-top: 40px;
 }
